@@ -1,0 +1,20 @@
+html, body{
+    margin: 0%;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+}
+/*css variables*/
+:root{
+    --primary-color:rgb(25, 65, 177);
+    --primary-color2:rgb(175, 53, 100);
+    --title-color: rgb(59, 3, 3);
+    --text-color: rgb(231, 35, 94);
+    --border-color:rgb(216, 210, 210);
+    --gradient-color: linear-gradient(90deg, rgb(33, 56, 75) 0%, rgb(72, 202, 241) 100%);
+    --shadow-color: 0px 5px 70px rgb(200, 240, 250);
+    --box-shadow: 0px 5px 70px rgb(200,240,250);
+
+    /*font variables*/
+    --ubuntu: "ubuntu";
+}
